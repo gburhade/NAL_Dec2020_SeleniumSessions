@@ -1,7 +1,10 @@
+
+package SeleniumSessions;
+
+
 public class LaunchAppTest {
 
 	public static void main(String[] args) {
-
 		System.out.println("Remote - Main Method");
 	}
 	
@@ -13,6 +16,6 @@ public class LaunchAppTest {
   public void login()
   {
   System.out.println("login");
+  System.out.println();
   }
-
 }
